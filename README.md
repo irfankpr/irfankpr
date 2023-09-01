@@ -79,7 +79,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jquery logo"  />
   <img width="12" />
-  <img src="https://www.chartjs.org/media/logo-title.svg" height="50" alt="chartjs logo"  />
+  <img src="https://www.chartjs.org/media/logo-title.svg" height="45" alt="chartjs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
   <img width="12" />
@@ -107,7 +107,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
   <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" height="40" alt="bash logo"  />
+  <img src="[https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg](https://img.icons8.com/?size=512&id=19292&format=png)" height="40" alt="bash logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=heroku" height="40" alt="heroku logo"  />
   <img width="12" />
