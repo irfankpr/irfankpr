@@ -79,7 +79,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jquery logo"  />
   <img width="12" />
-  <img src="https://www.chartjs.org/media/logo-title.svg" height="40" alt="chartjs logo"  />
+  <img src="https://www.chartjs.org/media/logo-title.svg" height="50" alt="chartjs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
   <img width="12" />
