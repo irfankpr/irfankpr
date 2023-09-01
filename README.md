@@ -51,7 +51,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
   <img width="12" />
-  <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" height="40" alt="flask logo"  />
+  <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" height="40" width="40" alt="stream lit logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=graphql" height="40" alt="graphql logo"  />
   <img width="12" />
